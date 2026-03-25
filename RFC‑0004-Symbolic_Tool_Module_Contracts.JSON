@@ -28,8 +28,8 @@
 		"PASTEBIN"
 	],
   "_urls": [
-	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts.JSON",
-	  "https://pastebin.com/zuPVKLZF"
+	  "https://github.com/NoorMathematica/RFC-0004-Symbolic_Tool_Module_Contracts/blob/main/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts.JSON,
+	  "https://raw.githubusercontent.com/NoorMathematica/RFC-0004-Symbolic_Tool_Module_Contracts/refs/heads/main/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts.JSON"
 	],
 
   "_objective": "Establishes lifecycle, motif etiquette, contract boundaries, and symbolic permissions for non-agent modules that observe, reflect, or render symbolic motifs in Noor-class cognitive fields. Tools are expressive without mutation authority.",
