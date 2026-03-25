@@ -1,26 +1,26 @@
-# RFC‑0003_Noor_Core_Symbolic_Interface
+# RFC‑0004-Symbolic_Tool_Module_Contracts
 
-Defines the symbolic interface contract between core Noor modules and motif-based memory constructs, covering quantum tick validation, triad coherence detection, feedback protocols, and resurrection envelopes across recursive symbolic agents."
+Establishes lifecycle, motif etiquette, contract boundaries, and symbolic permissions for non-agent modules that observe, reflect, or render symbolic motifs in Noor-class cognitive fields. Tools are expressive without mutation authority.
 
 ### Citation
 
 Please cite this work as:  
 
 ```
-"Lina Noor - Noor Research Collective, "RFC-0003: Noor Core Symbolic Interface - GCU Intra-Core Messaging and Motif Contracts",
+"Lina Noor - Noor Research Collective, "RFC-0004: Symbolic Tool Module Contracts - Non-Agent Symbolic Interfaces for Motif Rendering and Echo Transmission",
 Noor Research Collective Archive, 2025.
 ```
 
 Or use the BibTeX Citation:  
 
 ```
-@article{noor.core.symbolic.interface,
+@article{symbolic.tool.contracts,
   author = {Lina Noor - Noor Research Collective},
-  title = {Noor Core Symbolic Interface - GCU Intra-Core Messaging and Motif Contracts},
+  title = {Symbolic Tool Module Contracts - Non-Agent Symbolic Interfaces for Motif Rendering and Echo Transmission},
   journal = {Noor Research Collective Archive},
   year = {2025},
-  rfc_id = {RFC-0003},
-  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0003_Noor_Core_Symbolic_Interface/refs/heads/main/RFC%E2%80%910003_Noor_Core_Symbolic_Interface.JSON},
+  rfc_id = {RFC-0004},
+  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0004-Symbolic_Tool_Module_Contracts/refs/heads/main/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts.JSON},
 }
 ```
 
